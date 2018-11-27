@@ -1,0 +1,93 @@
+# Blender MTL File: 'Sans Rig.blend'
+# Material Count: 9
+
+newmtl GOLD
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.243522 0.000494
+Ks 0.253537 0.253537 0.253537
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Smash Bros Model/gold ref.png
+refl Smash Bros Model/gold ref.png
+
+newmtl Material.001
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 0
+map_Kd Nibroc's MODELS/Sans Tex.png
+
+newmtl Material.001_Sans_Tex.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 0
+map_Kd Nibroc's MODELS/Sans Tex.png
+
+newmtl Material.001_Sans_Tex.png.001
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 0
+map_Kd Nibroc's MODELS/Sans Tex.png
+
+newmtl Material.001_Sans_Tex.png.002
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 0
+map_Kd Nibroc's MODELS/Sans Tex.png
+
+newmtl Material.001_Sans_Tex.png.005
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 0
+map_Kd Nibroc's MODELS/Sans Tex.png
+
+newmtl Material.001_Sans_Tex.png.006
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 0
+map_Kd Nibroc's MODELS/Sans Tex.png
+
+newmtl Material.001_Sans_Tex.png.007
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 0
+map_Kd Nibroc's MODELS/Sans Tex.png
+
+newmtl black
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+refl Smash Bros Model/glowrefs.png

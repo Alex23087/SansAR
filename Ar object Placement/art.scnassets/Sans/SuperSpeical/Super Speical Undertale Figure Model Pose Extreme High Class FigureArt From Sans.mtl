@@ -1,0 +1,32 @@
+# Blender MTL File: 'sans model rigged.blend'
+# Material Count: 3
+
+newmtl GOLD
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.243522 0.000494
+Ks 0.253537 0.253537 0.253537
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/nibrocrock/Documents/Smash Bros Model/gold ref.png
+refl /Users/nibrocrock/Documents/Smash Bros Model/gold ref.png
+
+newmtl Material.001
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 0
+
+newmtl black
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+refl /Users/nibrocrock/Documents/Smash Bros Model/glowrefs.png
